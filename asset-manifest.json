@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/KeeperApp/static/js/main.8157358d.js",
-    "index.html": "/github.io/KeeperApp/index.html",
-    "main.8157358d.js.map": "/github.io/KeeperApp/static/js/main.8157358d.js.map"
+    "main.js": "/KeeperApp/static/js/main.8157358d.js",
+    "index.html": "/KeeperApp/index.html",
+    "main.8157358d.js.map": "/KeeperApp/static/js/main.8157358d.js.map"
   },
   "entrypoints": [
     "static/js/main.8157358d.js"
